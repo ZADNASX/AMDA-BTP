@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" width="800" height="550" role="img" aria-label="Équipements de maison"><title>Équipements de maison</title>
+
+  <rect width="800" height="550" fill="#f3efe6"/>
+  <rect y="430" width="800" height="120" fill="#1f4d3a"/>
+  <rect x="60" y="70" width="240" height="90" rx="16" fill="#ffffff" stroke="#cfe0d7" stroke-width="6"/>
+  <g fill="#cfe0d7">
+    <rect x="86" y="120" width="188" height="12" rx="6"/>
+    <rect x="86" y="96" width="60" height="10" rx="5"/>
+  </g>
+  <g transform="translate(560 60)">
+    <rect x="-8" y="0" width="16" height="54" rx="8" fill="#8b948e"/>
+    <circle cx="0" cy="62" r="16" fill="#2b6449"/>
+    <g fill="#3f8062">
+      <rect x="10" y="54" width="120" height="16" rx="8"/>
+      <rect x="-130" y="54" width="120" height="16" rx="8"/>
+    </g>
+  </g>
+  <g transform="translate(120 240)">
+    <rect x="0" y="80" width="420" height="110" rx="22" fill="#e9a48f"/>
+    <rect x="20" y="24" width="380" height="76" rx="20" fill="#c8553d"/>
+    <rect x="0" y="176" width="46" height="34" rx="10" fill="#1f4d3a"/>
+    <rect x="374" y="176" width="46" height="34" rx="10" fill="#1f4d3a"/>
+  </g>
+  <g transform="translate(620 250)">
+    <rect x="0" y="0" width="18" height="150" rx="9" fill="#8b948e"/>
+    <path d="M-40 0 H58 L34 -60 H-16 Z" fill="#e2dccd"/>
+  </g>
+</svg>

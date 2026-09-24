@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" width="640" height="800" role="img" aria-label="Électricien — illustration"><title>Électricien — illustration</title>
+
+  <rect width="640" height="800" fill="#2b6449"/>
+  <circle cx="320" cy="700" r="330" fill="#ffffff" opacity=".08"/>
+  <path d="M516 118 L446 232 H502 L484 322 L560 202 H508 Z" fill="#e9a48f"/>
+  <path d="M168 800 C168 618 234 536 320 536 C406 536 472 618 472 800 Z" fill="#3f8062"/>
+  <rect x="303" y="540" width="34" height="260" fill="#ffffff" opacity=".16"/>
+  <circle cx="320" cy="392" r="78" fill="#e2dccd"/>
+  <path d="M224 366 C224 300 266 258 320 258 C374 258 416 300 416 366 Z" fill="#e9a48f"/>
+  <rect x="210" y="362" width="220" height="28" rx="14" fill="#e9a48f"/>
+</svg>

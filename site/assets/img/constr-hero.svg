@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Villa moderne livrée par AMDA"><title>Villa moderne livrée par AMDA</title>
+
+  <rect width="1600" height="900" fill="#14352a"/>
+  <circle cx="1280" cy="200" r="90" fill="#2b6449" opacity=".5"/>
+  <rect y="720" width="1600" height="180" fill="#0f2b22"/>
+  <rect x="760" y="380" width="520" height="340" fill="#2b6449"/>
+  <rect x="700" y="300" width="180" height="420" fill="#3f8062"/>
+  <path d="M700 300 H1340 L1300 240 H740 Z" fill="#c8553d"/>
+  <g fill="#cfe0d7" opacity=".85">
+    <rect x="820" y="430" width="120" height="90" rx="6"/>
+    <rect x="980" y="430" width="120" height="90" rx="6"/>
+    <rect x="1140" y="430" width="100" height="90" rx="6"/>
+    <rect x="730" y="360" width="120" height="90" rx="6"/>
+  </g>
+  <rect x="980" y="590" width="110" height="130" rx="6" fill="#e9a48f"/>
+  <g transform="translate(420 560)">
+    <rect x="-9" y="0" width="18" height="160" rx="9" fill="#2b6449"/>
+    <path d="M0 10 C-56 -18 -86 10 -98 36 C-56 26 -22 32 0 48 Z" fill="#3f8062"/>
+    <path d="M0 10 C56 -18 86 10 98 36 C56 26 22 32 0 48 Z" fill="#3f8062"/>
+  </g>
+  <rect x="1380" y="640" width="160" height="80" rx="12" fill="#2b6449"/>
+</svg>

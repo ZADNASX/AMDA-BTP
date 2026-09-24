@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" width="640" height="800" role="img" aria-label="Maçon — illustration"><title>Maçon — illustration</title>
+
+  <rect width="640" height="800" fill="#1f4d3a"/>
+  <circle cx="320" cy="700" r="330" fill="#ffffff" opacity=".08"/>
+  <rect x="470" y="128" width="20" height="72" rx="10" fill="#e2dccd"/>
+     <path d="M410 200 H550 C544 258 512 296 480 308 C448 296 416 258 410 200 Z" fill="#e2dccd"/>
+  <path d="M168 800 C168 618 234 536 320 536 C406 536 472 618 472 800 Z" fill="#c8553d"/>
+  <rect x="303" y="540" width="34" height="260" fill="#ffffff" opacity=".16"/>
+  <circle cx="320" cy="392" r="78" fill="#e2dccd"/>
+  <path d="M224 366 C224 300 266 258 320 258 C374 258 416 300 416 366 Z" fill="#f3efe6"/>
+  <rect x="210" y="362" width="220" height="28" rx="14" fill="#f3efe6"/>
+</svg>

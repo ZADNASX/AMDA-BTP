@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" width="800" height="550" role="img" aria-label="Carrelage et finitions"><title>Carrelage et finitions</title>
+
+  <rect width="800" height="550" fill="#f3efe6"/>
+  <rect y="430" width="800" height="120" fill="#1f4d3a"/>
+  <g>
+    <rect x="60" y="150" width="84" height="84" rx="8" fill="#cfe0d7"/><rect x="60" y="246" width="84" height="84" rx="8" fill="#e2dccd"/><rect x="60" y="342" width="84" height="84" rx="8" fill="#cfe0d7"/><rect x="156" y="150" width="84" height="84" rx="8" fill="#e2dccd"/><rect x="156" y="246" width="84" height="84" rx="8" fill="#cfe0d7"/><rect x="156" y="342" width="84" height="84" rx="8" fill="#e2dccd"/><rect x="252" y="150" width="84" height="84" rx="8" fill="#cfe0d7"/><rect x="252" y="246" width="84" height="84" rx="8" fill="#e2dccd"/><rect x="252" y="342" width="84" height="84" rx="8" fill="#cfe0d7"/><rect x="348" y="150" width="84" height="84" rx="8" fill="#e2dccd"/><rect x="348" y="246" width="84" height="84" rx="8" fill="#cfe0d7"/><rect x="348" y="342" width="84" height="84" rx="8" fill="#e2dccd"/>
+  </g>
+  <g transform="translate(560 120)">
+    <rect x="0" y="0" width="150" height="56" rx="12" fill="#c8553d"/>
+    <rect x="54" y="56" width="16" height="70" fill="#8b948e"/>
+    <path d="M62 126 H150 V300" fill="none" stroke="#8b948e" stroke-width="16" stroke-linecap="round"/>
+    <rect x="118" y="300" width="64" height="26" rx="8" fill="#2b6449"/>
+  </g>
+</svg>

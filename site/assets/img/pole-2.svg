@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Artisan vérifié AMDA"><title>Artisan vérifié AMDA</title>
+
+  <rect width="800" height="500" fill="#f3efe6"/>
+  <rect y="386" width="800" height="114" fill="#1f4d3a"/>
+  <rect x="470" y="90" width="230" height="250" rx="14" fill="#ffffff" stroke="#cfe0d7" stroke-width="8"/>
+  <g fill="#cfe0d7">
+    <rect x="496" y="120" width="34" height="44" rx="6"/><rect x="542" y="120" width="34" height="44" rx="6"/><rect x="588" y="120" width="34" height="44" rx="6"/><rect x="634" y="120" width="34" height="44" rx="6"/><rect x="496" y="186" width="34" height="44" rx="6"/><rect x="542" y="186" width="34" height="44" rx="6"/><rect x="588" y="186" width="34" height="44" rx="6"/><rect x="634" y="186" width="34" height="44" rx="6"/><rect x="496" y="252" width="34" height="44" rx="6"/><rect x="542" y="252" width="34" height="44" rx="6"/><rect x="588" y="252" width="34" height="44" rx="6"/><rect x="634" y="252" width="34" height="44" rx="6"/>
+  </g>
+  <g transform="translate(280 168) scale(2.6)">
+    <path d="M-34 96 C-34 56 -18 38 0 38 C18 38 34 56 34 96 Z" fill="#2b6449"/>
+    <path d="M-10 38 H10 V96 H-10 Z" fill="#3f8062"/>
+    <circle cx="0" cy="12" r="20" fill="#e2dccd"/>
+    <path d="M-25 6 C-25 -12 -12 -22 0 -22 C12 -22 25 -12 25 6 Z" fill="#c8553d"/>
+    <rect x="-30" y="4" width="60" height="7" rx="3.5" fill="#c8553d"/>
+    <rect x="26" y="52" width="40" height="12" rx="6" fill="#e2dccd"/>
+  </g>
+</svg>

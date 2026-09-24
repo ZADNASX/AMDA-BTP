@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" width="800" height="550" role="img" aria-label="Plomberie et électricité"><title>Plomberie et électricité</title>
+
+  <rect width="800" height="550" fill="#f3efe6"/>
+  <rect y="430" width="800" height="120" fill="#1f4d3a"/>
+  <g stroke="#3f8062" stroke-width="30" fill="none" stroke-linecap="round">
+    <path d="M70 150 H250 Q300 150 300 200 V330"/>
+    <path d="M70 250 H190 Q240 250 240 300 V430"/>
+  </g>
+  <g fill="#2b6449">
+    <rect x="52" y="128" width="30" height="44" rx="6"/>
+    <rect x="52" y="228" width="30" height="44" rx="6"/>
+    <rect x="278" y="310" width="44" height="30" rx="6"/>
+  </g>
+  <g transform="translate(470 120)">
+    <circle cx="140" cy="150" r="118" fill="none" stroke="#e9a48f" stroke-width="26"/>
+    <circle cx="140" cy="150" r="74" fill="none" stroke="#c8553d" stroke-width="26"/>
+    <circle cx="140" cy="150" r="30" fill="#f3efe6"/>
+    <path d="M148 108 L118 156 H140 L132 196 L166 144 H144 Z" fill="#c8553d"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+node_modules/
+.env
+data/
+
+# Maquettes fournies par le client — ne partent pas en ligne.
+*.pdf
+*.zip

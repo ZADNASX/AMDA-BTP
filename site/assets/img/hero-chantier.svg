@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Chantier de construction"><title>Chantier de construction</title>
+
+  <rect width="1600" height="900" fill="#14352a"/>
+  <rect y="720" width="1600" height="180" fill="#0f2b22"/>
+  <g fill="#2b6449">
+    <rect x="980" y="300" width="360" height="420"/>
+  </g>
+  <g fill="#3f8062" opacity=".55">
+    <rect x="1010" y="330" width="80" height="66" rx="4"/><rect x="1120" y="330" width="80" height="66" rx="4"/><rect x="1230" y="330" width="80" height="66" rx="4"/><rect x="1010" y="430" width="80" height="66" rx="4"/><rect x="1120" y="430" width="80" height="66" rx="4"/><rect x="1230" y="430" width="80" height="66" rx="4"/><rect x="1010" y="530" width="80" height="66" rx="4"/><rect x="1120" y="530" width="80" height="66" rx="4"/><rect x="1230" y="530" width="80" height="66" rx="4"/><rect x="1010" y="630" width="80" height="66" rx="4"/><rect x="1120" y="630" width="80" height="66" rx="4"/><rect x="1230" y="630" width="80" height="66" rx="4"/>
+  </g>
+  <g fill="#3f8062">
+    <rect x="300" y="420" width="420" height="20"/>
+    <rect x="300" y="560" width="420" height="20"/>
+    <rect x="300" y="700" width="420" height="20"/>
+    <rect x="300" y="420" width="20" height="300"/>
+    <rect x="480" y="420" width="20" height="300"/>
+    <rect x="700" y="420" width="20" height="300"/>
+  </g>
+  <g stroke="#c8553d" stroke-width="16" fill="none" stroke-linecap="round">
+    <path d="M820 700 V180"/>
+    <path d="M760 200 H1250"/>
+    <path d="M820 180 L900 260"/>
+  </g>
+  <path d="M1140 208 V330" stroke="#e9a48f" stroke-width="8"/>
+  <rect x="1100" y="330" width="80" height="60" rx="8" fill="#e9a48f"/>
+  
+  <g transform="translate(400 600) scale(1.15)">
+    <path d="M-34 96 C-34 56 -18 38 0 38 C18 38 34 56 34 96 Z" fill="#c8553d"/>
+    <circle cx="0" cy="12" r="20" fill="#e2dccd"/>
+    <path d="M-25 6 C-25 -12 -12 -22 0 -22 C12 -22 25 -12 25 6 Z" fill="#f3efe6"/>
+    <rect x="-30" y="4" width="60" height="7" rx="3.5" fill="#f3efe6"/>
+  </g>
+  
+  <g transform="translate(560 610) scale(1.05)">
+    <path d="M-34 96 C-34 56 -18 38 0 38 C18 38 34 56 34 96 Z" fill="#3f8062"/>
+    <circle cx="0" cy="12" r="20" fill="#e2dccd"/>
+    <path d="M-25 6 C-25 -12 -12 -22 0 -22 C12 -22 25 -12 25 6 Z" fill="#e9a48f"/>
+    <rect x="-30" y="4" width="60" height="7" rx="3.5" fill="#e9a48f"/>
+  </g>
+  <g fill="#2b6449" opacity=".7">
+    <rect x="60" y="640" width="180" height="80" rx="10"/>
+    <rect x="80" y="600" width="140" height="44" rx="8"/>
+  </g>
+</svg>

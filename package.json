@@ -1,0 +1,17 @@
+{
+  "name": "amda-btp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site AMDA BTP — front statique et back-end de traitement des demandes",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/app.js",
+    "motdepasse": "node server/outils/motdepasse.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  },
+  "dependencies": {
+    "nodemailer": "^10.0.10"
+  }
+}
