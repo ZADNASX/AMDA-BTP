@@ -3,6 +3,10 @@
   'use strict';
 
   var API = '/api/demandes';
+
+  /* Hébergement statique (GitHub Pages) : aucun back-end n'écoute. Les formulaires
+     l'annoncent franchement plutôt que d'échouer sur « réessayez dans un instant ». */
+  var VITRINE = /\.github\.io$/i.test(location.hostname);
   var POIDS_FICHIER = 8 * 1024 * 1024;
   var POIDS_TOTAL = 18 * 1024 * 1024;
 
@@ -143,6 +147,11 @@
   }
 
   function envoyer(form) {
+    if (VITRINE) {
+      messageErreur(form, 'Cette version est une présentation du site : les demandes ne sont pas encore enregistrées. Appelez le +229 01 00 00 00 00 ou écrivez-nous sur WhatsApp.');
+      avis('Présentation : le formulaire n\'est pas encore relié.', 'erreur');
+      return;
+    }
     var bouton = un('button[type="submit"]', form);
     var libelle = bouton ? bouton.textContent : '';
     var type = form.dataset.type;

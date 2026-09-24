@@ -1,0 +1,44 @@
+# Publie le dossier « site » sur GitHub Pages à chaque poussée sur main.
+# Attention : Pages ne sert que des fichiers. Les formulaires, les notifications
+# et le back-office demandent le serveur Node et ne fonctionnent pas ici.
+name: Vitrine GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Une publication à la fois, sans interrompre celle qui est en cours.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Préparer Pages
+        uses: actions/configure-pages@v5
+        with:
+          # Active Pages sur le dépôt si ce n'est pas déjà fait.
+          enablement: true
+
+      - name: Empaqueter le front
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Déployer
+        id: deploiement
+        uses: actions/deploy-pages@v4
