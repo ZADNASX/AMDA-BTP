@@ -71,7 +71,7 @@ function page(titrePage, contenu, { connecte = true } = {}) {
 <body>
 ${connecte ? `<header class="bo-header">
   <div class="enveloppe">
-    <img src="/assets/img/logo-amda-btp-clair.svg" alt="AMDA BTP">
+    <img src="/assets/img/logo-amda-btp-clair.png" alt="AMDA BTP">
     <strong style="font-family:var(--titre)">Back-office</strong>
     <nav>
       <a href="/admin">Demandes</a>
@@ -93,7 +93,7 @@ function connexion({ erreur } = {}) {
   return page('Connexion', `
   <div class="bo-login">
     <div style="text-align:center;margin-bottom:22px">
-      <img src="/assets/img/logo-amda-btp.svg" alt="AMDA BTP" style="height:46px;margin:0 auto">
+      <img src="/assets/img/logo-amda-btp.png" alt="AMDA BTP" style="height:46px;margin:0 auto">
     </div>
     <form class="encadre" method="post" action="/admin/connexion">
       <h1 style="font-size:20px;margin-bottom:6px">Back-office AMDA</h1>
